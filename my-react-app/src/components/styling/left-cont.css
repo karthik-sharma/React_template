@@ -1,0 +1,49 @@
+.container-left {
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 62%;
+    height:950px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.header-class-he {
+    text-align: center;
+    padding-top: 30px;
+    font-family: Oswald;
+    font-size: medium;
+}
+
+.image-class-he {
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image-class-he img {
+    width: 850px;
+    padding-bottom: 20px;
+}
+
+
+.btn-like {
+    float: left;
+    margin-left: 13px;
+    margin-top: 30px;
+    width: 100px;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn-reply {
+    float: right;
+    margin-right: 13px;
+    margin-top: 30px;
+    width: 100px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

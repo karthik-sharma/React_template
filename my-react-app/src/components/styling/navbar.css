@@ -1,0 +1,26 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding: 7px;
+   
+}
+
+.nav-bar a {
+    filter: brightness(0) invert(1);
+    border-bottom: none;
+    transition: background-color 0.3s;
+    padding: 7px 15px;
+}
+
+.fa.fa-search {
+    margin-left: auto;
+}
+
+.nav-bar a:hover {
+    background-color: grey;
+    cursor: pointer;
+    filter: brightness(0.8) invert(1); /* Adjust the brightness filter for the links on hover */
+
+
+}

@@ -1,0 +1,45 @@
+.jane-img {
+    max-width: 100%;
+    margin-top: 50px;
+    margin-left: 0;
+}
+
+.img-container {
+    position: relative;
+}
+
+.img-txt {
+    position:absolute;
+    top: 40%;
+    left: 2%;
+    margin-left: 10px;
+    color: white;
+}
+
+.img-txt h2 {
+    font-weight: bold;
+    font-family: Oswald;
+    font-size: xx-large;
+    font-style: normal;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img-txt h1 {
+    font-weight: bold;
+    font-family: Oswald;
+    font-size: 60px;
+    font-style: normal;
+    line-height: 40px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.sub-btn {
+    padding:20px;
+    width: 130px;
+    height: auto;
+    background-color: #D3D3D3;
+    font-weight: bold;
+    font-size: 15px;
+}
